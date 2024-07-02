@@ -5,4 +5,4 @@ That's done in Chinese, no ENG version
 
 使用思源笔记完成, 建议配合Markdown阅读器使用(推荐VScode中的插件)
 
-主要是之前的整合, 后续加入面经等, 6月中继续
+课堂期末导向的个人复习笔记
